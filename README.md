@@ -5,7 +5,7 @@ Build a fully **serverless weather streaming pipeline** that fetches live weathe
 
 This is ideal for real-time dashboards, anomaly detection, or downstream analytics.
 
-Inspired by this [youtube series.]()
+Inspired by this [youtube series.](https://www.youtube.com/watch?v=okrKwdn9Z34&list=PLrG_BXEk3kXyEV0dzmAN-49tLrQsM0jUa)
 ---
 
 ## Architecture Overview
