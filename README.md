@@ -192,7 +192,7 @@ weather-table
 ) on AlertValue
 ```
 
-✅ This filters out any outdated alerts and gives you only **currently active ones**.
+This filters out any outdated alerts and gives you only **currently active ones**.
 
 ---
 
