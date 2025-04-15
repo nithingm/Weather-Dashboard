@@ -1,4 +1,3 @@
-```markdown
 # Real-Time Weather Data Streaming to Azure Event Hub and Microsoft Fabric
 
 ## Project Objective
@@ -6,7 +5,7 @@ Build a fully **serverless weather streaming pipeline** that fetches live weathe
 
 This is ideal for real-time dashboards, anomaly detection, or downstream analytics.
 
-Inspired by
+Inspired by this [youtube series.]()
 ---
 
 ## Architecture Overview
@@ -197,7 +196,7 @@ weather-table
 
 ---
 
-## ✅ Summary
+## Conclusion
 You've built a **fully serverless, secure, and real-time data streaming pipeline** from WeatherAPI → Azure Function → Event Hub → Fabric → KQL Database → Power BI.
 
 > This sets the foundation for building real-time **dashboards**, **alerts**, and **analytics pipelines**.
