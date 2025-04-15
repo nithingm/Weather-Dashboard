@@ -148,7 +148,7 @@ weather-table
 
 ---
 
-## 📊 Power BI Dashboard Setup
+## Power BI Dashboard Setup
 
 ### Step 1: Download and Open the Dashboard
 - Download the `.pbix` file from this GitHub repository
@@ -170,7 +170,7 @@ weather-table
 
 ---
 
-## Ὢ8 Setting Up Alerts with KQL
+## Setting Up Alerts with KQL
 
 ### Step 1: Create a KQL Queryset
 - Go to: `Eventhouse` → `New KQL Queryset`
